@@ -15,8 +15,10 @@ public class Ex1 {
 			System.out.println("É inverno \nE o tempo está frio");
 		}else if(estacao == 3) {
 			System.out.println("É outono \nE o tempo esta seco");
-		}else {
+		}else if(estacao == 4) {
 			System.out.println("É primavera \nE o tempo está quente e úmido");
+		}else {
+			System.out.println("Número inválido!");
 		}
 		
 	}
