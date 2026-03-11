@@ -3,7 +3,7 @@ package pessoas;
 public class PessoasPOO {
 
 	String nome;
-	String sexo;
+	char sexo;
 	String dataNascimento;
 	String estadoCivil;
 }
